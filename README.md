@@ -3,5 +3,7 @@ Final project for UCLA Fall 2016 Psych 20 MATLAB Programming for Behavioral Scie
 # Production
 MATLAB
 # Team Members
+- Connie Kim
+- Dalia Salazar
 - Michelle Wen
 - Rufei Fan
